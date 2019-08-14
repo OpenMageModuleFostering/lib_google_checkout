@@ -1,15 +1,10 @@
 {
-    "name": "OpenMageModuleFostering/Lib_Google_Checkout",
+    "name": "OpenMageModuleFostering/lib_google_checkout",
     "type": "magento-module",
-    "license": "Apache-License",
+    "license": "",
     "homepage": "",
-    "description": "Google Checkout Library",
-    "authors": [
-    {
-        "name": "Magento Core Team",
-        "email": "core@magentocommerce.com"
-    }
-],
+    "description": "",
+    "authors": null,
     "suggest": {
         "magento-hackathon/magento-composer-installer": "*"
     }
