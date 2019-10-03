@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/Lib_Google_Checkout",
+    "name": "openmage-module-fostering\/lib_google_checkout",
     "type": "magento-module",
     "license": "Apache-License",
     "homepage": "",
